@@ -1,2 +1,4 @@
-## Matthew Le
-changes
+## **Matthew Le**
+<p>I am an Electrical and Computer Engineering junior undergraduate at the University of Washington. I am looking for an internship in computer architecture, embedded systems, or software development with my skills in Circuit Design and Verification, FPGA programming, and object-oriented programming.</p>
+I am currently an Electrical Team Member in Washington Superbike working on:<br>
+<ul> <li>Researching on implementing the electric motorcycle’s state of charge to understand its battery status during usage</li> <li>Read and learned from previous documentation to understand each component's purpose and interconnection</li> </ul>
